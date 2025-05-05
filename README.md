@@ -1,5 +1,7 @@
 # 💫 About Me:
-Olá! Sou o Paulo Xavier, um entusiasta de tecnologia, e aqui compartilharei algumas das minhas ideias.<br>🔭 Atualmente sou Jovem Aprendiz do Grupo Pão de Açucar - GPA<br>🌱 Estudando JavaScript<br>😄 Pronouns: ele/dele
+Olá! Meu nome é Paulo Xavier e sou um entusiasta de tecnologia iniciando minha jornada como desenvolvedor. Tenho estudado e praticado JavaScript, Python, HTML, CSS e Bootstrap, com foco em construir interfaces web funcionais e responsivas.
+
+Atualmente, estou estagiando na área de TI e em busca da minha primeira oportunidade como desenvolvedor. Sempre estou em busca de aprender e me desenvolver cada vez mais, explorando novas tecnologias e aprimorando minhas habilidades com dedicação e constância
 
 
 ## 🌐 Socials:
